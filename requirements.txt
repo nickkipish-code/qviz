@@ -1,0 +1,4 @@
+aiogram==3.*
+SQLAlchemy==2.*
+aiosqlite
+python-dotenv
